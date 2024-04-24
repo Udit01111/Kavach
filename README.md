@@ -5,9 +5,9 @@
 Kavach is an innovative autonomous robot project designed to revolutionize military rescue missions by addressing the critical challenges of hostile and dangerous environments. With a primary focus on enhancing situational awareness, operational efficiency, and personnel safety, Kavach integrates cutting-edge technology to navigate complex terrain, detect threats, and provide real-time information for informed decision-making.
 
 This project presents a comprehensive analysis of Kavach, including its objectives, project flow, implementation plan, and feature assessment. Through extensive literature review and simulation-based optimization, the project aims to refine the Kavach design and ensure its effectiveness in various rescue scenarios.
-
-
-
+<p align="center">
+<img src="WhatsApp Image 2024-04-12 at 18.14.15_996c90ac.jpg"  width="700" height="500"></img>
+</p>
 
 ## Key Features
 
