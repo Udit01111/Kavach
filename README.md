@@ -6,10 +6,8 @@ Kavach is an innovative autonomous robot project designed to revolutionize milit
 
 This project presents a comprehensive analysis of Kavach, including its objectives, project flow, implementation plan, and feature assessment. Through extensive literature review and simulation-based optimization, the project aims to refine the Kavach design and ensure its effectiveness in various rescue scenarios.
 
-<p align="center">
-  <img src="C:\Users\Udit\Downloads\WhatsApp Image 2024-04-12 at 18.14.15_996c90ac.jpg
-" width="500" height="300">
-</p>
+
+
 
 ## Key Features
 
@@ -36,6 +34,9 @@ The executive summary highlights the expected results of the project and undersc
 - Ensure personnel safety during rescue operations through threat detection and real-time information dissemination.
   
 - Conduct a thorough analysis and optimization of Kavach design and features through literature review and simulation-based techniques.
+
+  ![WhatsApp Image 2024-04-24 at 22 30 50_cbbcbf53](https://github.com/Udit01111/Kavach/assets/150335620/4326b0ee-7618-4f6c-8465-0257102a455e)
+
 
 ## Installation
 
