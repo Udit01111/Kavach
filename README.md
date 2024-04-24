@@ -1,4 +1,4 @@
-# Kavach: Autonomous Military Rescue Robot
+# Kavach: Autonomous Military Reckon Robot
 
 ## Overview
 
@@ -6,9 +6,10 @@ Kavach is an innovative autonomous robot project designed to revolutionize milit
 
 This project presents a comprehensive analysis of Kavach, including its objectives, project flow, implementation plan, and feature assessment. Through extensive literature review and simulation-based optimization, the project aims to refine the Kavach design and ensure its effectiveness in various rescue scenarios.
 
-
-![WhatsApp Image 2024-04-12 at 18 14 15_48b40ef7](https://github.com/Udit01111/Kavach/assets/150335620/baadc1fe-6cdf-42f5-af29-09c0f2f91fd7)
-
+<p align="center">
+  <img src="C:\Users\Udit\Downloads\WhatsApp Image 2024-04-12 at 18.14.15_996c90ac.jpg
+" width="500" height="300">
+</p>
 
 ## Key Features
 
